@@ -389,7 +389,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.32</version>
+			<version>8.0.16</version>
 		</dependency>
 		<!-- includes the PropertiesConfiguration, which allows us to automatically 
 			refresh properties based on properties files <dependency> <groupId>commons-configuration</groupId> 
